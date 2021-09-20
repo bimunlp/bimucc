@@ -1,5 +1,5 @@
 publishDir : docs
-baseurl: https://bimu.cc
+baseurl: https://bimu.netlify.app
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
