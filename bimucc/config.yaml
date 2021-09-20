@@ -55,7 +55,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: bimu
             apiUrl:
             apiKey:
             admin:
